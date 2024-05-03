@@ -1,0 +1,17 @@
+help
+info
+show
+insert 321
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+1
+10000
+execute_script src/system/test2.txt
